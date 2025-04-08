@@ -1,6 +1,6 @@
 ---
-title: "Example PDF"
-author: [Author]
+title: "Example PDF TEST"
+author: [TEST]
 date: "2017-02-20"
 subject: "Markdown"
 keywords: [Markdown, Example]
